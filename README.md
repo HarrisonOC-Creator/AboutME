@@ -1,5 +1,14 @@
-# AboutME
-AWS Certified Machine Learning Engineer Associate and Physics graduate specializing in reproducible, config-driven ML workflows that scale from local experimentation to cloud deployment. My physics background equips me to tackle complex, quantitative problems, while my AWS expertise enables me to build robust, production-ready ML solutions. I have hands-on experience with SageMaker pipelines, data preparation, model training, and monitoring, and I love integrating AWS services such as S3, Glue, Athena, and Kinesis into scalable, end-to-end workflows.
+## About Me
 
-Connect with me on LinkedIn.
-https://www.linkedin.com/in/harrison-ogden-carr-4916a2316/
+Hi, I'm Harrison — a physics graduate and aspiring machine learning engineer based in Melbourne, Australia. I'm passionate about building reproducible, production-ready ML workflows that bridge the gap between experimentation and deployment. Every project I take on is an opportunity to learn something new, refine my skills, and push the boundaries of what I can build.
+
+My interests span basketball analytics, athletic performance modeling, and physics-inspired systems — and you'll see those themes woven throughout my work. I'm especially drawn to projects that combine statistical rigor with real-world impact, whether it's predicting NBA player trajectories or designing scalable cloud pipelines.
+
+I'm currently focused on:
+- Exploring a wide range of ML algorithms and frameworks
+- Developing config-driven, modular pipelines for training and inference
+- Deploying models to the cloud using AWS services like SageMaker, S3, Glue, and Athena
+
+This GitHub is my sandbox — I'm always working on something new, and I welcome feedback, ideas, and collaboration. If you're curious about data, sports, science, or just thoughtful machine learning, I’d love to connect.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/harrison-ogden-carr-4916a2316/).
